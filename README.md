@@ -22,8 +22,6 @@ git clone https://github.com/your_username/cnasm.git
 
     Place the file in the /usr/local/bin directory and grant it execution permissions. Here are the steps to do so:
 
-bash
-
 cd path/to/folder
 sudo cp cnasm /usr/local/bin
 sudo chmod +x /usr/local/bin/cnasm
