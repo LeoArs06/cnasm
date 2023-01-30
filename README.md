@@ -6,7 +6,7 @@ This script requires nasm and ld to be installed on your operating system.
 Clone this repository using git:
 
 ```bash
-git clone https://github.com/your_username/cnasm.git
+git clone https://github.com/LeoArs06/cnasm
 ```
 
 Place the file in the /usr/local/bin directory and give it execution permissions:
