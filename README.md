@@ -20,7 +20,7 @@ Place the skeleton file in a directory that is accessible by the system, such as
 ```bash
 cp skeleton_file ~/skeleton_file
 ```
-(Replace skeleton_file with the name of the skeleton file.)
+(Replace skeleton_file with the name of the skeleton file in the script.)
 
 ## Usage
 Usage
