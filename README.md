@@ -18,7 +18,7 @@ sudo chmod +x /usr/local/bin/cnasm
 Place the skeleton file in a directory that is accessible by the system, such as the home directory:
 
 ```bash
-cp skeleton_file ~/skeleton_file
+cp skeleton.asm ~/skeleton.asm
 ```
 (Replace skeleton_file with the name of the skeleton file in the script.)
 
