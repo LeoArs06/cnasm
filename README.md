@@ -12,7 +12,7 @@ git clone https://github.com/LeoArs06/cnasm
 Place the file in the /usr/local/bin directory and give it execution permissions:
 ```bash
 cd path/to/folder
-sudo cp cnasm /usr/local/bin
+sudo cp cnasm.sh /usr/local/bin/cnasm
 sudo chmod +x /usr/local/bin/cnasm
 ```
 Place the skeleton file in a directory that is accessible by the system, such as the home directory:
