@@ -21,7 +21,6 @@ Place the skeleton file in a directory that is accessible by the system, such as
 cp skeleton.asm ~/skeleton.asm
 ```
 ## Usage
-Usage
 
 ```bash
 cnasm [-c file] [-e file] [-b file]
