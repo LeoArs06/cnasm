@@ -26,7 +26,6 @@ cp skeleton.asm ~/skeleton.asm
 cnasm [-c file] [-e file] [-b file]
 ```
 ## Options
-Options
 ```bash
     -c file: Compiles the specified NASM ELF64 file.
     -e file: Compiles and executes the specified NASM ELF64 file.
