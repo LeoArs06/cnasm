@@ -1,7 +1,7 @@
 #v1.2
 #!/bin/bash
 
-skeleton_file="/home/leonardo/Documents/cnasm/skeleton.asm"
+skeleton_file="~/cnasm/skeleton.asm"
 
 while getopts ":c:e:d:b:" opt; do
   case $opt in
