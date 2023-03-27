@@ -1,7 +1,7 @@
 # Cnasm
 A Bash Script for Compiling, Linking, Debugging and Creating NASM ELF64 Files
 ## Requirements
-This script requires nasm and ld to be installed on your linux operating system.
+This script requires nasm, gdb and ld to be installed on your linux operating system.
 ## Installation
 Clone this repository using git:
 
